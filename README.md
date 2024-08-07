@@ -1,4 +1,4 @@
-👋 Hi, I’m @yaadav-deepanshu
+👋 Hi, I’m Deepanshu Yadav
 
 👀 I’m interested in Devops,Cloud Computing,Networking
 
