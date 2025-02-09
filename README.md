@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python,flask,Docker,chef,Ansible,
 
-💞️ I’m looking to collaborate on a project which is SafeEntry And LockWise
+💞️ I’m looking to collaborate on projects which are SafeEntry And LockWise
 
 📫 How to reach me: Yaadav.deepanshu@gmail.com
 
