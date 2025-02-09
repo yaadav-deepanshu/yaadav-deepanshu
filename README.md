@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python,flask,Docker,chef,Ansible,
 
-💞️ I’m looking to collaborate on a project which is Automatic_Number_Plate_Recoginition_System_With_Email_Notification
+💞️ I’m looking to collaborate on a project which is SafeEntry And LockWise
 
 📫 How to reach me: Yaadav.deepanshu@gmail.com
 
